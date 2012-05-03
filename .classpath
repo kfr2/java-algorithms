@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="algorithms_1"/>
+	<classpathentry kind="src" path="algorithms_2"/>
+	<classpathentry kind="src" path="algorithms_3"/>
+	<classpathentry kind="src" path="quora_interviewstreet/src"/>
+	<classpathentry kind="src" path="spotify_code_quest/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="out/production/spotify_code_quest"/>
+</classpath>

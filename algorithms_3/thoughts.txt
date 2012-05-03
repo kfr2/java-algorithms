@@ -1,0 +1,24 @@
+KMP
+===
+* preprocess the target
+  -
+* i through searchText
+* j through target
+
+
+DFA
+===
+letters:  a, b, and c
+
+first line:  number of states [3]
+state(goto)   a       b       c
+0             1       1       0
+1             0       2       1
+2             1       2       2
+final state (2)
+# of strings (3)
+abc             => false
+bbbbb           => true
+ccaccbc         => true
+
+yield whether or not each state ends in a final state

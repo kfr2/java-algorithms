@@ -1,0 +1,6 @@
+dc$
+dcab$
+dcc$
+dcabc$
+dcabababababc$
+dcccccccccabc$
